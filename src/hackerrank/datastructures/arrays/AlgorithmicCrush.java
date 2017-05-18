@@ -1,7 +1,7 @@
 /**
  * 
  */
-package hackerrank.algorithms.datastructures.arrays;
+package hackerrank.datastructures.arrays;
 
 import java.util.Arrays;
 import java.util.Comparator;

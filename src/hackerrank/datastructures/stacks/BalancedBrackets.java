@@ -1,7 +1,7 @@
 /**
  * 
  */
-package hackerrank.algorithms.datastructures.stacks;
+package hackerrank.datastructures.stacks;
 
 import java.util.HashMap;
 import java.util.Map;
